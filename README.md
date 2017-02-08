@@ -1,3 +1,5 @@
 # justforfun
-first time using 
+first time using \n
+third line
+
 where can i read this line?
